@@ -1,5 +1,5 @@
 name          'yo61-cloudinit'
-version       '1.0.1'
+version       '1.0.2'
 source        'https://github.com/yo61/puppet-cloudinit'
 author        'Robin Bowes <robin.bowes@yo61.com>'
 license       'Apache-2.0'
