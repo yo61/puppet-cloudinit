@@ -7,18 +7,19 @@
   "source": "https://github.com/yo61/puppet-cloudinit",
   "project_page": "https://github.com/yo61/puppet-cloudinit",
   "issues_url": "https://github.com/yo61/puppet-cloudinit/issues",
+  "tags": ["cloud-init","cloudinit","amazon","ec2"],
   "operatingsystem_support": [
     {
-      "operatingsystem": "RedHat",
-      "operatingsystemrelease": [
-        "7"
-      ]
+      "operatingsystem": "CentOS",
+      "operatingsystemrelease": [ "7.0.1406" ]
     },
     {
-      "operatingsystem": "CentOS",
-      "operatingsystemrelease": [
-        "7"
-      ]
+      "operatingsystem": "RedHat",
+      "operatingsystemrelease": [ "7.0" ]
+    },
+    {
+      "operatingsystem": "Ubuntu",
+      "operatingsystemrelease": [ "12.04" ]
     }
   ],
   "dependencies": [
