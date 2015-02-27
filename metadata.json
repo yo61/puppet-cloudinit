@@ -1,0 +1,30 @@
+{
+  "name": "yo61-cloudinit",
+  "version": "1.0.0",
+  "author": "Robin Bowes <robin.bowes@yo61.com>",
+  "summary": "Helper to install Amazon Cloudinit scripts",
+  "license": "Apache-2.0",
+  "source": "https://github.com/yo61/puppet-cloudinit",
+  "project_page": "https://github.com/yo61/puppet-cloudinit",
+  "issues_url": "https://github.com/yo61/puppet-cloudinit/issues",
+  "operatingsystem_support": [
+    {
+    "operatingsystem":"RedHat",
+    "operatingsystemrelease": [
+        "7"
+      ]
+    },
+    {
+    "operatingsystem":"CentOS",
+    "operatingsystemrelease": [
+        "7"
+      ]
+    }
+   ],
+  "dependencies": [
+    {
+      "name": "puppetlabs-stdlib",
+      "version_requirement": ">= 1.0.0"
+    }
+  ]
+}
