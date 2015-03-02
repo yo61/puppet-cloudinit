@@ -1,6 +1,6 @@
 {
   "name": "yo61-cloudinit",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "author": "Robin Bowes <robin.bowes@yo61.com>",
   "summary": "Helper to install Amazon Cloudinit scripts",
   "license": "Apache-2.0",
